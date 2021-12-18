@@ -1,10 +1,10 @@
 <scheme name="Material Oceanic Custom" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-08-28T23:43:18</property>
+    <property name="created">2021-12-18T17:55:01</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-08-28T23:43:36</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2021-12-18T17:55:21</property>
     <property name="originalScheme">Material Oceanic Custom</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Myrica M" />
@@ -116,22 +116,22 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7be395" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
@@ -797,7 +797,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GO_BLOCK_COMMENT" baseAttributes="DEFAULT_BLOCK_COMMENT" />
     <option name="GO_BUILTIN_CONSTANT">
       <value>
         <option name="FOREGROUND" value="6fccde" />
@@ -841,7 +840,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GO_LINE_COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
     <option name="GO_LOCAL_CONSTANT">
       <value>
         <option name="FOREGROUND" value="6fccde" />
@@ -1224,8 +1222,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JAVA.IMPORT_PACKAGE">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -3032,7 +3028,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -3063,7 +3058,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="eeffe3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3186,22 +3181,22 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7be395" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
@@ -3600,22 +3595,22 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7be395" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
@@ -3625,22 +3620,22 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7be395" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
